@@ -1,0 +1,18 @@
+.input {
+    flex-direction: row;
+    gap: 30px;
+  }
+  
+  input[type=text] {
+    height: 30px;
+    font-size: 20px;
+    padding: 5px; 
+  }
+  
+  input.p-code {
+    width: 30ch;
+  }
+  
+  input.h-code {
+    width: 30ch;
+  }
